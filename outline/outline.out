@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Theory}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Coupled Cluster Theory}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Basics of Quantum Computing}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Implementing the Unitary Coupled Cluster on a Quantum Computer}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Variational Approach To Estimating Energies on a Quantum Computer}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{The k-UpCCGSD Ansatz}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Summary of the Quantum UCC procedure}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Methodology}{}% 9
+\BOOKMARK [1][-]{section.4}{Results and discussion}{}% 10
+\BOOKMARK [1][-]{section.5}{Conclusions}{}% 11
